@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "30671535440",
+    "project_id": "hambayi-delivery",
+    "storage_bucket": "hambayi-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30671535440:android:9df30dee4ac30c529dc055",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30671535440-2e04ei5knj9lkkpenvqdtva8q0eureol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uaNuC1Qun4DqraMUww6xQFQWnl_B5IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30671535440-2e04ei5knj9lkkpenvqdtva8q0eureol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30671535440-ehcketkiadj1r5ciq3mkfpd18h7l12kh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.e"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
